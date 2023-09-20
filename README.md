@@ -15,13 +15,13 @@ Before running this project, ensure you have the following:
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/google-maps-geocoding-python.git
+git clone https://github.com/adanzweig/Python-GoogleGeoCoding.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd google-maps-geocoding-python
+cd Python-GoogleGeoCoding
 ```
 
 3. Open the `index.py` file in your code editor.
